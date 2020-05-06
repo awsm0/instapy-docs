@@ -16,6 +16,7 @@ NOTE: _If you add an empty file named ssh to the boot directory, ssh will be ena
 
 ## Install GeckoDriver 
 The latest versions of InstaPy automatically install geckodriver. If running an older InstaPy version (pre-0.6.0), read on:
+(This doesnt seem to work, ive installed the latest version and had to follow this gecko installation to get it to work)
 
 _GeckoDriver releases can be found in:_ https://github.com/mozilla/geckodriver/releases. The latest ARM release as of 2019-08-16 is v0.23.
 
